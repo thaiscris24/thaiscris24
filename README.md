@@ -2,7 +2,7 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Thais;I'm+24+years+old;I'm+a+Analista+Suporte+Técnico;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Thais;I'm+24+years+old;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 ***
 - In 2023, I started my systems analysis and development course. Since then, I dedicated myself to the world of programming, with the aim of improving my acquired skills and contributing to the development of projects that make a difference in current global technology. My professional goals are to work as a web and mobile developer.
